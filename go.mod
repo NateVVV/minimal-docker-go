@@ -1,3 +1,3 @@
-module github.com/NateVVV/helloworld
+module github.com/NateVVV/minimal-docker-go
 
 go 1.19
